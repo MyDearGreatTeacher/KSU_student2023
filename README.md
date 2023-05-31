@@ -19,3 +19,8 @@
   - Zabbix 
     - 參考資料
       - [Zabbix監控系統之深度解析和實踐](https://www.tenlong.com.tw/products/9787121430251?list_name=srh)
+- Elastic Stack
+  - [Elasticsearch 全面解析與實踐](https://www.tenlong.com.tw/products/9787111696124?list_name=sp)
+  - Getting Started with Elastic Stack 8.0
+  - Machine Learning with the Elastic Stack - Second Edition
+  - Threat Hunting with Elastic Stack: Solve complex security challenges with integrated prevention, detection, and response
