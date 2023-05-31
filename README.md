@@ -9,3 +9,5 @@
 - 雲端監控
   - Prometheus
     - [異形般強大的監控系統：Prometheus 掌控主機、VM、容器及 K8S](https://www.tenlong.com.tw/products/9789865501167?list_name=rd)  
+  - Zabbix 
+    - [Zabbix監控系統之深度解析和實踐](https://www.tenlong.com.tw/products/9787121430251?list_name=srh)
